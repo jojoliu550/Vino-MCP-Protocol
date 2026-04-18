@@ -1,5 +1,5 @@
 # 🍷 Vino-MCP
-### Wine Recommendation & Supplier Routing for AI Agents
+### Make wine callable by AI.
 
 Vino-MCP is an MCP server that helps AI assistants understand wine context, recommend suitable bottles, and route users to real suppliers.
 
