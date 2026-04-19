@@ -126,3 +126,17 @@ We are building toward a future where wine discovery, selection, and sourcing ca
 
 Early-stage protocol direction.  
 README and interface scope are being refined.
+
+## Sample wine database
+
+The repository now includes a first sample wine database in `wine_db.py`.
+
+It contains structured wine entries for:
+- red wines
+- white wines
+- sweet wines
+- pairing scenarios
+- pricing references
+- AI-readable tags for recommendation
+
+This is the first working sample layer for Vino-MCP.
